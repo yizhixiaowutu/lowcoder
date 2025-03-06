@@ -2,7 +2,7 @@
 > Lowcoder continues from the abandoned Openblocks project. For more information [read our manifesto](MANIFESTO.md).
 
 <div align="center">
-    <h1 style="border-bottom: none; margin-bottom: 0">Lowcoder</h1>
+    <h1 style="border-bottom: none; margin-bottom: 0">Lowcoder Fork</h1>
     <h3 style="margin-top: 0">This is the only Platform, which closes the gap between App Development, Website Development,  interactive Slides/Presentations and Collaboration Tools!</h3>
     <p>
         Create software applications (internal and customer-facing!) and Meeting/Collaboration tools for your Company and your Customers with minimal coding experience. 
